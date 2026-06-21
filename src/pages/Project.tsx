@@ -18,7 +18,7 @@ export default function Project() {
             animate={{ opacity: 1, y: 0 }}
             className="text-4xl md:text-5xl font-black text-eyablue mb-4"
           >
-            Projet de <span className="text-eyayellow">Société</span>
+            Projet du <span className="text-eyayellow">BDE</span>
           </motion.h1>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
@@ -63,7 +63,7 @@ export default function Project() {
                     <div>
                       <h3 className="text-xl font-bold text-eyablue mb-4 border-b-2 border-eyayellow inline-block pb-1">Les Clubs Actuils</h3>
                       <ul className="space-y-3">
-                        {["English Club", "Club Lecture", "Club Musique", "Club de Danse", "Club Entrepreneurs", "Club Tourisme", "Club Sport", "Club Artistes", "Club Crochet & Création"].map((club) => (
+                        {["English Club", "Club Lecture", "Club Musique", "Club de Danse", "Club Entrepreneurs", "Club Tourisme", "Club Sport", "Club d'Art", "Club Crochet & Création"].map((club) => (
                           <li key={club} className="flex items-center gap-2 text-gray-700">
                             <Plus size={16} className="text-eyayellow" /> {club}
                           </li>
@@ -107,7 +107,7 @@ export default function Project() {
               <div className="flex items-center gap-4">
                 <div className="w-10 h-10 bg-eyablue rounded-xl flex items-center justify-center text-eyayellow text-sm font-bold shrink-0">H2</div>
                 <div>
-                  <h2 className="text-lg font-bold text-eyablue">Animation & Expérience ADS</h2>
+                  <h2 className="text-lg font-bold text-eyablue">Activités d'animation et d'expérience</h2>
                   <p className="text-slate-500 text-xs mt-1">Rymer l'année avec des événements marquants et fédérateurs.</p>
                 </div>
               </div>

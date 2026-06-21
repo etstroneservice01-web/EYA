@@ -20,7 +20,7 @@ const team = [
     image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=600",
   },
   {
-    role: "Secrétaire général",
+    role: "Secrétaire Général",
     name: "Marie Dubois",
     image: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=600",
   },

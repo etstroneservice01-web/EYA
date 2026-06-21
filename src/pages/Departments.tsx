@@ -6,7 +6,7 @@ const poles = [
   {
     title: "Bureau exécutif",
     icon: UserCheck,
-    roles: ["Président", "Vice-président", "Trésorier", "Secrétaire général"],
+    roles: ["Président", "Vice-président", "Trésorier", "Secrétaire Général"],
     desc: "L'organe de direction qui coordonne et s'assure de l'exécution du projet de société."
   },
   {
@@ -24,7 +24,7 @@ const poles = [
   {
     title: "Pôle Communication & Création",
     icon: Zap,
-    roles: ["Graphiste", "Community Manager", "Inside ADS", "Points focaux"],
+    roles: ["Graphiste", "Community Manager", "INSIDE ADS", "Points focaux"],
     desc: "Dirigé par le Responsable Communication. Faire vivre l'image de l'école et tenir les étudiants informés en temps réel."
   },
   {

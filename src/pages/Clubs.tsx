@@ -55,7 +55,7 @@ const clubsData = [
     project: "Organisation des Sport Day's",
   },
   {
-    name: "Club Artistes",
+    name: "Club d'Art",
     icon: Palette,
     description: "Un espace pour la création visuelle, la peinture, le dessin et l'expression.",
     activities: ["Séances plein air", "Défis de création", "Ateliers techniques"],
